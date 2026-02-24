@@ -1,0 +1,91 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Classic Black Hoodie",
+      "category": "Hoodies",
+      "price": 49.99,
+      "description": "Crafted from premium heavy-weight cotton, this hoodie offers a modern oversized fit with dropped shoulders and a double-layered hood. Perfect for layering or making a statement on its own.",
+      "sizes": ["S", "M", "L", "XL"],
+      "colors": ["Black", "Grey"],
+      "rating": 4.8,
+      "reviews": 120,
+      "images": [
+        "https://images.unsplash.com/photo-1556821840-3a63f95609a7?auto=format&fit=crop&q=80&w=800",
+        "https://images.unsplash.com/photo-1521223890158-f9f7c3d5d504?auto=format&fit=crop&q=80&w=800"
+      ],
+      "video": "https://assets.mixkit.co/videos/preview/mixkit-man-in-a-black-hoodie-standing-in-the-street-4013-large.mp4",
+      "featured": true,
+      "new_arrival": false
+    },
+    {
+      "id": 2,
+      "name": "Oversized Street T-Shirt",
+      "category": "T-Shirts",
+      "price": 29.99,
+      "description": "A staple for any streetwear enthusiast. This t-shirt features a boxy silhouette, thick ribbed collar, and ultra-soft combed cotton for maximum comfort and durability.",
+      "sizes": ["S", "M", "L", "XL"],
+      "colors": ["White", "Beige"],
+      "rating": 4.6,
+      "reviews": 85,
+      "images": [
+        "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?auto=format&fit=crop&q=80&w=800",
+        "https://images.unsplash.com/photo-1583743814966-8936f5b7be1a?auto=format&fit=crop&q=80&w=800"
+      ],
+      "video": "https://assets.mixkit.co/videos/preview/mixkit-young-man-wearing-a-white-t-shirt-and-walking-4114-large.mp4",
+      "featured": false,
+      "new_arrival": true
+    },
+    {
+      "id": 3,
+      "name": "Beige Cargo Trousers",
+      "category": "Bottoms",
+      "price": 64.99,
+      "description": "Functional meets fashionable. These cargo trousers are designed with multiple utility pockets, adjustable ankle cuffs, and a relaxed tapered fit in a versatile beige hue.",
+      "sizes": ["30", "32", "34", "36"],
+      "colors": ["Beige", "Olive"],
+      "rating": 4.7,
+      "reviews": 64,
+      "images": [
+        "https://images.unsplash.com/photo-1624378439575-d8705ad7ae80?auto=format&fit=crop&q=80&w=800",
+        "https://images.unsplash.com/photo-1594633312681-425c7b97ccd1?auto=format&fit=crop&q=80&w=800"
+      ],
+      "featured": true,
+      "new_arrival": true
+    },
+    {
+      "id": 4,
+      "name": "Minimalist Wool Overcoat",
+      "category": "Outerwear",
+      "price": 189.99,
+      "description": "The ultimate luxury layer. Our overcoat is tailored from a premium wool blend, featuring a clean hidden-button placket and a structured shoulder for a sharp, sophisticated look.",
+      "sizes": ["M", "L", "XL"],
+      "colors": ["Camel", "Black"],
+      "rating": 4.9,
+      "reviews": 42,
+      "images": [
+        "https://images.unsplash.com/photo-1539533377285-bb41e5c4f492?auto=format&fit=crop&q=80&w=800",
+        "https://images.unsplash.com/photo-1544022613-e87ca75a784a?auto=format&fit=crop&q=80&w=800"
+      ],
+      "featured": true,
+      "new_arrival": false
+    },
+    {
+      "id": 5,
+      "name": "Linen Blend Shirt",
+      "category": "Shirts",
+      "price": 45.00,
+      "description": "Breathable and effortlessly stylish. This linen blend shirt is perfect for warm days, featuring a relaxed collar and a soft-wash finish for a lived-in feel from day one.",
+      "sizes": ["S", "M", "L", "XL"],
+      "colors": ["White", "Light Blue"],
+      "rating": 4.5,
+      "reviews": 98,
+      "images": [
+        "https://images.unsplash.com/photo-1596755094514-f87e34085b2c?auto=format&fit=crop&q=80&w=800",
+        "https://images.unsplash.com/photo-1602810318383-e386cc2a3ccf?auto=format&fit=crop&q=80&w=800"
+      ],
+      "featured": false,
+      "new_arrival": true
+    }
+  ]
+}
